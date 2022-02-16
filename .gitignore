@@ -1,0 +1,15 @@
+
+*.ipynb_checkpoints/
+.DS_Store
+.env
+.venv
+Untitled.ipynb
+*.pyc
+.vscode
+
+# don't track the data but keep the folder 
+data/*
+!data/.gitkeep
+
+# test ipynb
+test.ipynb

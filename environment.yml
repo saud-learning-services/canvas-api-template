@@ -1,0 +1,15 @@
+name: {project-name}
+channels:
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python>=3.9.0
+  - python-dotenv
+  - termcolor
+  - requests
+  - jupyter
+  - pandas
+  - pip
+  - pip:
+      - canvasapi>=2.0.0
