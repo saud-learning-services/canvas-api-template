@@ -15,5 +15,5 @@ API_INSTANCE = 'https://ubc.instructure.com'
 
 1. Run:
    1. navigate to your directory `$ cd YOUR_PATH/{PROJECT-NAME}`
-   1. activate the environment (see step 3 on first run) `$ conda activate {PROJECT-NAME}`
-   1. run the script and follow prompts in terminal `$ python src/{SOME-FILE}.py`
+   1. activate the environment (see step 3 on first run) `$ conda activate do-stuff`
+   1. run the script and follow prompts in terminal `$ python src/do-stuff.py`

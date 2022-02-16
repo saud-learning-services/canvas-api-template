@@ -1,4 +1,4 @@
-name: {PROJECT-NAME}
+name: do-stuff
 channels:
   - conda-forge
   - anaconda
