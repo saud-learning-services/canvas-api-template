@@ -7,8 +7,8 @@
 4. Create .env file and include:
 
 ```
-API_TOKEN = ''
-API_INSTANCE = 'https://ubc.instructure.com'
+API_KEY = ''
+API_URL = 'https://ubc.instructure.com'
 ```
 
 #### Every Time
